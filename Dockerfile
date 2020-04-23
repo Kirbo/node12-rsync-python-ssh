@@ -7,4 +7,5 @@ RUN apk add --update \
   git
 
 
-# docker build . -t node12-rsync-python-ssh
+# docker build . -t kirbownz/node12-rsync-python-ssh:latest
+# docker push kirbownz/node12-rsync-python-ssh:latest
